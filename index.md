@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Azure Automation 
 
-You can use the [editor on GitHub](https://github.com/rainerleber/rainerleber.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, with this GitHub organization I want to share my experiences in Microsoft Azure, SAP and Infrastructure as Code with you. 
+It is a central repository of my Terraform modules, Ansible roles and playbooks to deploy and configure resources on Azure.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please feel free to contribute!!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rainerleber/rainerleber.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
